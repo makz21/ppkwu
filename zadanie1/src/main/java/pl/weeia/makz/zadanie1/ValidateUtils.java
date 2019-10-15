@@ -6,7 +6,7 @@ package pl.weeia.makz.zadanie1;
 public class ValidateUtils {
 
     /**
-     * Method to resolve is string is number
+     * Method to resolve that string is number
      *
      * @param string to validate
      * @return boolean
@@ -16,7 +16,7 @@ public class ValidateUtils {
     }
 
     /**
-     * Method to resolve is string is a Alphanumeric
+     * Method to resolve that string is a Alphanumeric
      *
      * @param string to validate
      * @return boolean
@@ -26,7 +26,7 @@ public class ValidateUtils {
     }
 
     /**
-     * Method to resolve is string is string
+     * Method to resolve that string is string
      *
      * @param string to validate
      * @return boolean
