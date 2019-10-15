@@ -22,10 +22,8 @@ public class ValidationController {
             return "it is alphanumeric";
         } else if (ValidateUtils.isNumeric(stringToValidate)) {
             return "it is numeric";
-        }
-        {
+        } else {
             return "it is string";
         }
-
     }
 }
